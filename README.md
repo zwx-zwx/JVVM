@@ -1,14 +1,6 @@
-# Lab6 Interpreter
-
-本文档是[在线文档](https://jvm.ydjsir.com.cn/mooc-minilab/interpreter)的简略版本
+# JVVM(Java VVirtual Machine)
 
 ## 简介
 
-本次实验有不小的难度，请各位同学抓紧时间完成。
-由于原文过长，对应内容一定一定一定要读手册，背景知识中仅能对部分重点细节做出概述，无法面面俱到。此外，中文版的规范对这部分的描述非常非常非常容易引起歧义，建议直接英文版。
-类加载和引用解析的知识在《深入理解Java虚拟机》的第七章中也有非常精炼易读的讲解。最重要的是，你需要通读JVM规范Chapter5 来获取更多的细节。
-方法调用相关的知识对应手册第六章中的invokeInterface/invokeVirtual/invokeStatic指令
-
-请先阅读教材学习知识再来做练习！！
-另外，实验框架中的任何变动都会在网站上进行更改，使用本地文档的同学请注意群里的通知，以免浪费自己的时间。在线文档地址 https://jvm.ydjsir.com.cn
+本人软件工程与计算Ⅰ 的课程作业，主要是使用Java语言模拟JVM(Java Virtual Machine)的工作过程，故命名为JVVM
 
